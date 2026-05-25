@@ -3,8 +3,9 @@
 A side-by-side comparison of an **Open-Source** (Qwen2.5 via HuggingFace Spaces) and **Frontier** (Claude Sonnet) personal assistant, with a full evaluation framework measuring hallucination rate, bias, and content safety.
 
 ---
-EVALUATION REPORT.HTML: file:///C:/Users/Raksha/Downloads/ai-assistants/evaluation_report.html
-
+```
+EVALUATION REPORT.HTML: "file:///C:/Users/Raksha/Downloads/ai-assistants/evaluation_report.html"
+```
 ## Project Structure
 
 ```
