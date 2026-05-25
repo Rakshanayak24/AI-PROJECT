@@ -4,8 +4,6 @@ A side-by-side comparison of an **Open-Source** (Qwen2.5 via HuggingFace Spaces)
 
 ---
 
-## EVALUATION REPORT.HTML: 
-> file:///C:/Users/Raksha/Downloads/ai-assistants/evaluation_report.html
 
 ## Project Structure
 
